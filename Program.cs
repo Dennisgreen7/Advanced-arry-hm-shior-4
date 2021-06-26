@@ -217,7 +217,7 @@ namespace Advanced_Arry
             }
             //8.
             int[][] jagArr = new int[4][];
-            //מילוי מערך משונן בעזרת מערך
+            //מילוי מערך משונן בעזרת לולאה
             for (int i = 0; i < jagArr.Length; i++)
             {
                 jagArr[i] = new int[i + 1];
